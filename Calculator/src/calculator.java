@@ -11,11 +11,6 @@ public class calculator
 				mult();
 				div();
 			}
-		
-		public static void userIn()
-		{
-			
-		}
 
 		public static double add(double addnum1, double addnum2)
 			{

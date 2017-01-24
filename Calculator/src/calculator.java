@@ -40,5 +40,4 @@ public class calculator
 				System.out.println(add(2, 3));
 				return divnum1 / divnum2;
 			}
-//	hello	
 	}
